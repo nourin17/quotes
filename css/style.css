@@ -1,0 +1,14 @@
+button{
+    background-color: blue;
+    color: #fff;
+    transition: background-color 1s;
+    width: 30%;
+}
+button:hover{
+    background-color: green;
+}
+h1{
+    font-size: 80px;
+    font-weight: 900;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
